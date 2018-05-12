@@ -1,0 +1,36 @@
+_repo: Constantinople-painted-by-Warwick-Goble_39620
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Goble, Warwick
+    birthdate: 1862
+    deathdate: 1943
+    gutenberg_agent_id: '25683'
+    url: http://www.gutenberg.org/2009/agents/25683
+covers:
+- cover_type: archival
+  image_path: 39620-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Van Millingen, Alexander
+    alias: Millingen, Alexander Van
+    birthdate: 1840
+    deathdate: 1915
+    gutenberg_agent_id: '33679'
+    url: http://www.gutenberg.org/2009/agents/33679
+description: ''
+gutenberg_issued: '2012-05-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39620'
+  lccn: '06045156'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Istanbul (Turkey) -- History'
+- !lcsh 'Istanbul (Turkey) -- Description and travel'
+- !lcc 'DR'
+title: Constantinople, painted by Warwick Goble, described by Alexander Van Millingen
+url: http://www.gutenberg.org/ebooks/39620
