@@ -19,6 +19,8 @@ creator:
     gutenberg_agent_id: '33679'
     url: http://www.gutenberg.org/2009/agents/33679
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39620#Constantinople-painted-by-Warwick-Goble
 gutenberg_issued: '2012-05-05'
 gutenberg_type: Text
 identifiers:
